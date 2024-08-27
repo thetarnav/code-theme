@@ -96,6 +96,27 @@
             }
         },
         {
+            "name": "Punctuation",
+            "scope": [
+                "constant.character.escape",
+                "punctuation.definition.string",
+                "punctuation.support.type.property-name"
+            ],
+            "settings": {
+                "foreground": "#B6AAADAB"
+            }
+        },
+        {
+            "scope": [
+                "punctuation",
+                "meta.brace",
+                "keyword.operator.type.annotation"
+            ],
+            "settings": {
+                "foreground": "#B6AAAD90"
+            }
+        },
+        {
             "name": "Constants",
             "scope": [
                 "markup.changed.diff",
@@ -265,25 +286,6 @@
             ],
             "settings": {
                 "fontStyle": "bold"
-            }
-        },
-        {
-            "name": "Punctuation",
-            "scope": [
-                "constant.character.escape"
-            ],
-            "settings": {
-                "foreground": "#B6AAADAB"
-            }
-        },
-        {
-            "scope": [
-                "punctuation",
-                "meta.brace",
-                "keyword.operator.type.annotation"
-            ],
-            "settings": {
-                "foreground": "#B6AAAD90"
             }
         },
         {
