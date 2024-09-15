@@ -1,7 +1,17 @@
 {
 	"name": "theme-mytheme",
-	"publisher": "thetarnav",
 	"version": "0.0.2",
+	"publisher": "thetarnav",
+	"author": "Damian Tarnawski <gthetarnav@gmail.com>",
+	"contributors": [],
+	"homepage": "https://github.com/thetarnav/code-theme/tree/main/packages/utils#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thetarnav/code-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/thetarnav/code-theme/issues"
+	},
 	"license": "MIT",
 	"displayName": "My Theme",
 	"description": "My Cool Theme",
